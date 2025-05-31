@@ -1,4 +1,4 @@
-package com.bala.lumen.data.dto;
+package com.bala.lumen.repository.dto;
 
 public class FoodInventory {
     private String itemId;
